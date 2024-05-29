@@ -1,5 +1,5 @@
 # Hi there 👋 I'm Mourad Tiferras
-### This is just a dummy account made for stupid accademic purpuses 
+### This is just a dummy account made for n00b accademic purpuses 
 ### My official account is  <a herf="https://github.com/M0R4D-Tiferras-self-learning-account"> https://github.com/M0R4D-Tiferras-self-learning-account </a>
 
 <!--
