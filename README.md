@@ -1,4 +1,7 @@
-## Hi there 👋
+# Hi there 👋 I'm Mourad Tiferras
+### This is just a dummy acount made for stupid accademic purpuses 
+### My official account is 
+<a herf="https://github.com/M0R4D-Tiferras-self-learning-account"> https://github.com/M0R4D-Tiferras-self-learning-account </a>
 
 <!--
 **mourad-tiferras2002/mourad-tiferras2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
